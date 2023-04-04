@@ -168,6 +168,9 @@ FROM PROJECT1_BIKES.[dbo].['DECEMBER-2022$'])
 
 SELECT SUM (counts) AS total 
 
+
+
+
 from (SELECT count(*) as counts
 FROM [PROJECT1_BIKES].[dbo].['JANUARY-2022$'] 
 UNION ALL
