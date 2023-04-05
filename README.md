@@ -558,5 +558,8 @@ TOP 3 RECOMMENDATIONS TO MARKETING TEAM:
 3. Since casual riders ride more on weekends, a weekend promo attached to annual memberships can attract more casual riders and in turn increase the number of annual Cyclistic members.
 
 
-**The provided data and analysis is sufficient to produce more indepth findings towards accomplishing the business task**
+
+
+
+**The provided data and analysis is sufficient to produce more indepth findings towards accomplishing the business task.**
 
