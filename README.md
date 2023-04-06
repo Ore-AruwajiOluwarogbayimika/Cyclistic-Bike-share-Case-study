@@ -26,7 +26,7 @@ For this project, the six (6) data-analytics phases were implemented (Ask, Prepa
 
 ### ASK
 According to the director of marketing, the clear question to be answered at the end of this project is:
-How do annual members and casual riders use Cyclistic bikes differently? 
+How did annual members and casual riders use Cyclistic bikes differently in 2022? 
 The key differences between these 2 membership types will provide valid information on what marketing strategies will be used for the forth coming campaign.
 
 What is the business task? Analysis of different usage patterns of casual riders and annual members with the aim of converting casual riders to annual members.
